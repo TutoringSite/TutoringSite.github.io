@@ -1,7 +1,7 @@
 
 
 body {
-  background-image: url("backgroundImg.jpg");
+//  background-image: url("backgroundImg.jpg");
 }
 
 .navLists {
@@ -10,4 +10,10 @@ body {
 .navLists:hover {
     background-color: lightblue;
     font-size: 110%;
+}
+
+
+
+#slideShowImgs {
+  width: 175%;
 }
