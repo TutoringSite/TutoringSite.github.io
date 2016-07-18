@@ -5,14 +5,17 @@ body {
 }
 
 #benefitsPage {
-  background-color: #729fcf;
+  background-color: #dce7f3;
+  border-top: 7px solid lightgrey;
 }
 
-#contactsPage {
+#contactPage {
   background-color: lightyellow;
 }
 
-
+#homePage {
+  background-color: #00e699;
+}
 
 .navLists {
   background-color: "#efefef";
